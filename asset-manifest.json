@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carievent/static/css/main.57d56892.chunk.css",
+    "main.js": "/carievent/static/js/main.9aefb0de.chunk.js",
+    "main.js.map": "/carievent/static/js/main.9aefb0de.chunk.js.map",
+    "runtime-main.js": "/carievent/static/js/runtime-main.2f06c8b4.js",
+    "runtime-main.js.map": "/carievent/static/js/runtime-main.2f06c8b4.js.map",
+    "static/js/2.05a9b011.chunk.js": "/carievent/static/js/2.05a9b011.chunk.js",
+    "static/js/2.05a9b011.chunk.js.map": "/carievent/static/js/2.05a9b011.chunk.js.map",
+    "index.html": "/carievent/index.html",
+    "static/css/main.57d56892.chunk.css.map": "/carievent/static/css/main.57d56892.chunk.css.map",
+    "static/js/2.05a9b011.chunk.js.LICENSE.txt": "/carievent/static/js/2.05a9b011.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f06c8b4.js",
+    "static/js/2.05a9b011.chunk.js",
+    "static/css/main.57d56892.chunk.css",
+    "static/js/main.9aefb0de.chunk.js"
+  ]
+}
