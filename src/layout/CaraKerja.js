@@ -45,7 +45,6 @@ class CaraKerja extends Component{
         const {ucapan} = this.state
         return (
             <div>
-                {colorButton}
                 <section className="container">
                     <div className="card my-5">
                         <div className="card-body ml-5">

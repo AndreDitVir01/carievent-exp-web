@@ -7,12 +7,12 @@ import ModalMasuk from './layout/ModalMasuk';
 import ModalDaftar from './layout/ModalDaftar';
 import Event from './layout/Event';
 import CaraKerja from './layout/CaraKerja';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, HashRouter, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter basename='/'>
         <Fragment>
           <Navbar />
           <Route exact path='/' component={LandingPage} />
@@ -26,7 +26,7 @@ function App() {
           <ModalMasuk />
           <ModalDaftar />
         </Fragment>
-      </Router>
+        </HashRouter>
     </div>
   );
 }
